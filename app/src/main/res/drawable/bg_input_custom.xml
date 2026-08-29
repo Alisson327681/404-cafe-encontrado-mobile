@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color de fondo relleno -->
+    <solid android:color="@color/cafe_input_bg" />
+    <!-- Radio de curvatura de las esquinas -->
+    <corners android:radius="4dp" />
+</shape>

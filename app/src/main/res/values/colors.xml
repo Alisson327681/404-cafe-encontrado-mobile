@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta oficial del proyecto -->
+    <color name="cafe_bg_brown">#8C6239</color>
+    <color name="cafe_card_white">#FFFFFF</color>
+    <color name="cafe_btn_yellow">#D4C157</color>
+    <color name="cafe_btn_top">#C4A47C</color>
+    <color name="cafe_input_bg">#CFC5C0</color>
+    <color name="cafe_text_dark">#000000</color>
+</resources>
