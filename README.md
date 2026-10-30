@@ -8,6 +8,7 @@ ALISSON CENTENO RAMOS
 LILIANA LOPEZ CACERES
 
 MEYLIN FUENTES APRIAZA
+Brandon  Centeno 
 
 
 404 Café Encontrado es una aplicación móvil nativa para Android desarrollada en Kotlin. Está diseñada para la gestión integral de un cybercafé, combinando la administración de estaciones de cómputo, registro de clientes, inventario de snacks, punto de venta y reportes de facturación en una interfaz moderna con una paleta de colores café y dorado.
