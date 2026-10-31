@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:background="@color/cream">
+ <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="28dp">
+  <TextView android:id="@+id/backLogin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="‹  Volver al inicio de sesión" android:textColor="@color/coffee" android:textSize="15sp" android:padding="8dp" />
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="28dp" android:text="Crea tu cuenta" android:textColor="@color/coffee_dark" android:textSize="30sp" android:textStyle="bold" />
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Únete a la comunidad cafetera" android:textColor="@color/muted" android:textSize="15sp" />
+  <EditText android:id="@+id/nameInput" android:layout_width="match_parent" android:layout_height="54dp" android:layout_marginTop="26dp" android:hint="Nombre completo" android:singleLine="true" android:padding="12dp" android:background="@drawable/bg_input" />
+  <EditText android:id="@+id/registerEmail" android:layout_width="match_parent" android:layout_height="54dp" android:layout_marginTop="14dp" android:hint="Correo electrónico" android:inputType="textEmailAddress" android:singleLine="true" android:padding="12dp" android:background="@drawable/bg_input" />
+  <EditText android:id="@+id/registerPassword" android:layout_width="match_parent" android:layout_height="54dp" android:layout_marginTop="14dp" android:hint="Contraseña (mínimo 4 caracteres)" android:inputType="textPassword" android:singleLine="true" android:padding="12dp" android:background="@drawable/bg_input" />
+  <TextView android:id="@+id/registerError" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:textColor="#B3261E" android:visibility="gone" />
+  <Button android:id="@+id/registerButton" android:layout_width="match_parent" android:layout_height="54dp" android:layout_marginTop="22dp" android:text="Crear cuenta" android:textAllCaps="false" android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:background="@drawable/bg_button" />
+  <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="Demo académica: la cuenta se guarda solo durante esta sesión." android:textColor="@color/muted" android:textSize="13sp" />
+ </LinearLayout>
+</ScrollView>

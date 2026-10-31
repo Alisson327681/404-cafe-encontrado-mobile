@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colores principales de la cafetería -->
+    <color name="coffee">#75452B</color>
+    <color name="coffee_dark">#4A2C20</color>
+    <color name="cream">#FFF9F1</color>
+    <color name="sand">#F5E5D2</color>
+    <color name="caramel">#D99A5B</color>
+
+    <!-- Acentos cálidos -->
+    <color name="orange">#F17715</color>
+    <color name="pink">#F7C8D0</color>
+    <color name="peach">#FFE2CC</color>
+
+    <!-- Textos y superficies -->
+    <color name="ink">#38271F</color>
+    <color name="muted">#8A786C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface">#FFFCF8</color>
+    <color name="border">#EAD8C5</color>
+
+    <!-- Estados -->
+    <color name="success">#386B4A</color>
+    <color name="error">#B83B32</color>
+    <color name="warning">#D58B25</color>
+
+</resources>
