@@ -1,3 +1,16 @@
+
+<div align="center">
+
+<img src="./assets/logo-404-cafe.png" width="300" alt="404 Café Encontrado">
+
+# ☕ 404 CAFÉ ENCONTRADO
+
+### Encuentra tu café ideal.
+
+**Aplicación móvil para descubrir cafeterías.**
+
+</div>
+
 # 404 Café Encontrado - Android
 
 Aplicación Android Java con interfaz en español y tema café/dorado.
